@@ -1,0 +1,113 @@
+.submitBtn{
+border: 1px solid #007cc0;
+height: 38px;
+font:14px arial,sans-serif;
+border-radius: 4px;
+background-color: #007cc0 !important;
+color: white !important;
+font-weight: bolder !important;
+}
+
+.submitBtn:hover{
+	cursor: pointer;
+	cursor: hand;
+  background-color: #007cc0 !important;
+}
+
+#idFINALFormSurplus--title{
+	font-weight: bolder !important;
+  color: #e00000 !important;
+}
+
+#idFINALFormShortage--title{
+	font-weight: bolder !important;
+	color : #1e8e00 !important;
+}
+
+.surplusSection{
+    background-color: #ffcbcb !important;
+    color: #000000;
+}
+
+.shortageSection{
+    background-color: #96ef9a !important;
+    color: #000000;
+}
+.marginTop7{
+	    margin-top: 7px;
+}
+.wraptext{
+white-space: pre-wrap !important;
+}
+
+.wraptextcol{
+white-space: pre-wrap !important;
+font-size: 13px !important;
+font-weight: bold !important;
+}
+
+.selectionLabels{
+    width: 180px;
+    text-align: left;
+    /* width: 100px; */
+    text-align: left;
+    margin-top: 5px !important;
+    text-align: left !important;
+    font-family: Arial,Helvetica,sans-serif !important;
+    font-size: 12px !important;
+    white-space: pre-wrap !important;
+		color : black !important;
+}
+
+.selectionLabelsLabel{
+	width: 180px;
+	text-align: left;
+	/* width: 100px; */
+	text-align: left;
+	margin-top: 18px !important;
+	text-align: left !important;
+	font-family: Arial,Helvetica,sans-serif !important;
+	font-size: 15px !important;
+	font-weight: bolder !important;
+	color: black!important;
+}
+
+.lightblue{
+	background-color: #7acdf8;
+	/*color: black !important;*/
+	font-weight: bolder !important;
+}
+
+.lightred{
+	background-color: #ffcbcb;
+	/*color: black !important;*/
+	font-weight: bolder !important;
+}
+
+.strongred{
+	background-color: #ff8f8f;
+	/*color: black !important;*/
+	font-weight: bolder !important;
+}
+
+.lightorange{
+	background-color: #ffd07a;
+	/*color: black !important;*/
+	font-weight: bolder !important;
+}
+
+.strongorange{
+	background-color: #ffbc40;
+	/*color: black !important;*/
+	font-weight: bolder !important;
+}
+
+.lightgreen{
+	background-color: #96ef9a;
+	/*color: black !important;*/
+	font-weight: bolder !important;
+}
+
+.lightyellow{
+  background-color: #f3f6ac;
+}
